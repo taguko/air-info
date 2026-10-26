@@ -1,4 +1,4 @@
-# Air-info
+# Air Info
 
 ## Motivation
 
