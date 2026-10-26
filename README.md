@@ -69,3 +69,7 @@ Measurement results could be periodically saved to a microSD card for long-term 
 ## Purpose
 
 This project is intended to provide a quick and easy way to assess the air quality of the club room and determine when ventilation may be needed.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
